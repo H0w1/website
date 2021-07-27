@@ -71,4 +71,4 @@ Jianhao Xu is a PhD candidate in computer science and technology at Nanjing Univ
 
 徐坚皓是南京大学计算机科学与技术系的在读博士生。他的研究方向包括软件与系统安全。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
