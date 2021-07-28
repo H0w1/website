@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2021-01-17T16:36:00+01:00
 
-authors: [Jianhao Xu, Kangjie Lu, and Bing Mao.]
+authors: [Jianhao Xu, Kangjie Lu, Bing Mao]
 tags: [Compiler Security]
 
 # Is this a featured event? (true/false)
