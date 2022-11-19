@@ -6,13 +6,13 @@ title: Jianhao Xu
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Software Security
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HexHive, EPFL (visiting)
+- name: HexHive, EPFL (visiting);
   url: http://hexhive.epfl.ch/
-- name: Seclab, Nanjing University
+- name: Seclab, NJU
   url: http://seclab.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
