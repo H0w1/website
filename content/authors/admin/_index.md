@@ -10,8 +10,10 @@ role: PhD Candidate of Software Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nanjing University
-  url: https://www.nju.edu.cn/
+- name: HexHive, EPFL (visiting)
+  url: http://hexhive.epfl.ch/
+- name: Seclab, Nanjing University
+  url: http://seclab.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software and system security.
@@ -25,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Visiting PhD student
+    institution: EPFL
+    year: 2022 - Present
   - course: PhD Candidate in Computer Science and Technology
     institution: Nanjing University
     year: 2017 - Present
@@ -67,8 +72,8 @@ email: "jianhao_xu@smail.nju.edu.cn"
 highlight_name: false
 ---
 
-Jianhao Xu is a PhD candidate in computer science and technology at Nanjing University. His researcch interests include software and system security.
-
-徐坚皓是南京大学计算机科学与技术系的在读博士生。他的研究方向包括软件与系统安全。
+Hi! I am Jianhao Xu (徐坚皓),
+a PhD candidate working on software and system security, advised by Prof. Bing Mao.
+Now I am visiting [HexHive](http://hexhive.epfl.ch/) and supervised by Prof. Mathias Payer.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
