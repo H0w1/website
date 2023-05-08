@@ -10,10 +10,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HexHive, EPFL (visiting);
-  url: http://hexhive.epfl.ch/
-- name: Seclab, NJU
+- name: Seclab, Nanjing University
   url: http://seclab.nju.edu.cn/
+- name: HexHive, EPFL
+  url: http://hexhive.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software and system security.
@@ -27,9 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Visiting PhD student
+  - course: Visiting PhD student at HexHive
     institution: EPFL
-    year: 2022 - Present
+    year: 2022 - 2023
   - course: PhD Candidate in Computer Science and Technology
     institution: Nanjing University
     year: 2017 - Present
@@ -74,6 +74,9 @@ highlight_name: false
 
 Hi! I am Jianhao Xu (徐坚皓),
 a PhD candidate working on software and system security, advised by Prof. Bing Mao.
-Now I am visiting [HexHive](http://hexhive.epfl.ch/) and supervised by Prof. Mathias Payer.
+<!-- Now I am visiting [HexHive](http://hexhive.epfl.ch/) and supervised by Prof. Mathias Payer. -->
 
+<font color=#FF000>
+I am scheduled to graduate in December 2023 and I am currently actively seeking job opportunities. If you are interested or have any relevant opportunities, please feel free to reach out to me.
+</font>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
