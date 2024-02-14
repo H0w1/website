@@ -6,14 +6,16 @@ title: Jianhao Xu
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Seclab, Nanjing University
-  url: http://seclab.nju.edu.cn/
-- name: HexHive, EPFL
-  url: http://hexhive.epfl.ch/
+- name: School of Cyber Science and Engineering, Southeast University
+  url: https://cyber.seu.edu.cn/wa_en/
+# - name: Seclab, Nanjing University
+#   url: http://seclab.nju.edu.cn/
+# - name: HexHive, EPFL
+#   url: http://hexhive.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software and system security.
@@ -30,9 +32,9 @@ education:
   - course: Visiting PhD student at HexHive
     institution: EPFL
     year: 2022 - 2023
-  - course: PhD Candidate in Computer Science and Technology
+  - course: PhD in Computer Science and Technology
     institution: Nanjing University
-    year: 2017 - Present
+    year: 2017 - 2023
   - course: BSc in Computer Science and Technology
     institution: Nanjing University of Science and Technology
     year: 2013 - 2017
@@ -66,17 +68,20 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jianhao_xu@smail.nju.edu.cn"
+# email: "jianhao_xu@smail.nju.edu.cn"
+email: "xujianhao95@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
 Hi! I am Jianhao Xu (徐坚皓),
-a PhD candidate working on software and system security, advised by Prof. Bing Mao.
-<!-- Now I am visiting [HexHive](http://hexhive.epfl.ch/) and supervised by Prof. Mathias Payer. -->
+a Research Associate in the school of Cyber Science and Engineering at Southeast University.
+My research lies at the intersection of security, software engineering and compilers. 
+I earned my Ph.D. in Computer Science from Nanjing University in 2023, and was fortunately advised by Professor Bing Mao. 
+From April 2022 to April 2023, I had the privilege of visiting [HexHive](http://hexhive.epfl.ch/) and being supervised by Professor Mathias Payer.
 
-<font color=#FF000>
-I am scheduled to graduate in December 2023 and I am currently actively seeking job opportunities. If you are interested or have any relevant opportunities, please feel free to reach out to me.
+<font color=blue>
+I'm looking for master students at Southeast University. If you are interested in systems and security, please feel free to contact me!
 </font>
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
