@@ -6,5 +6,5 @@ authors: ["Dongliang Mu", "Yunlan Du", "*Jianhao Xu*", "Jun Xu", "Xinyu Xing", "
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Transactions on Software Engineering*"
+publication: "*IEEE Transactions on Software Engineering* (CCF A)"
 ---

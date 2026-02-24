@@ -6,5 +6,5 @@ authors: ["Jianhao Xu", "Luca Di Bartolomeo", "Flavio Toffalini", "Bing Mao", "M
 abstract: ""
 publication_types: ["1"]
 featured: false
-publication: "*The 44th IEEE Symposium on Security and Privacy (Oakland'23)*"
+publication: "*The 44th IEEE Symposium on Security and Privacy (Oakland'23)* (CCF A)"
 ---

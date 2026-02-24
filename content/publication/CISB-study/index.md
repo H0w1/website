@@ -6,5 +6,5 @@ authors: ["Jianhao Xu", "Kangjie Lu", "Zhengjie Du", "Zhu Ding", "Linke Li", "Qi
 abstract: ""
 publication_types: ["1"]
 featured: false
-publication: "*The 32nd USENIX Security Symposium (Security'23)*"
+publication: "*The 32nd USENIX Security Symposium (Security'23)* (CCF A)"
 ---
